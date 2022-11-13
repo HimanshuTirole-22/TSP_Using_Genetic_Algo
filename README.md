@@ -1,4 +1,4 @@
-# TSP_Using_Genetic_Algorithm
+# Travelling Salesman Problem Using Genetic Algorithm
 
 Genetic algorithm (GA) is a search technique used in computer science to 
 find approximate solutions to combinatorial optimization 
